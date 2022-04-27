@@ -10,7 +10,7 @@ module.exports = {
         'bg100': '#0d0d0d',
       },
       gridTemplateRows: {
-        "layout": "100px 100px 100px"
+        "layout": "1fr 1fr 1fr"
       }
     },
   },

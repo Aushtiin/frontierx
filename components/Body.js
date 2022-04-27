@@ -99,7 +99,7 @@ const Body = () => {
             </div>
           </div>
         </div>
-        <div className="flex flex-col">
+        <div className={`${styles.Seconddiv} flex flex-col`}>
           <div className={`${styles.SecondBox} bg-bg100 p-8 mb-8`}>
             <div className="flex justify-between mb-5">
               <div className="flex">
@@ -111,8 +111,11 @@ const Body = () => {
               </div>
               <Image src={vector4} alt="vector" />
             </div>
+            {/* <div
+              className={`${styles.midBox} `}
+            > */}
             <div
-              className={`${styles.midBox} grid grid-cols-3 gap-3 grid-rows-layout`}
+              className={`${styles.midBox} grid grid-cols-3 auto-cols-auto gap-3 grid-rows-layout`}
             >
               <div className="flex flex-col text-center  justify-center items-center bg-bg100 text-white p-3 rounded">
                 <span className="text-xs mb-1 text-[#8E8B8F]">

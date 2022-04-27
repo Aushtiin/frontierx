@@ -62,15 +62,21 @@
 .firstBox {
   background: rgba(13, 13, 13, 0.5);
   width: 600px;
+
+  /* min-width: 50%; */
   border-radius: 4px;
   height: fit-content;
 }
 
 .SecondBox {
   background: rgba(13, 13, 13, 0.5);
-  max-width: 600px;
-  min-width: auto;
+  
   border-radius: 4px;
+}
+
+.Seconddiv {
+  width: 600px;
+  /* min-width: 50%; */
 }
 
 .bottomBox {
@@ -112,7 +118,7 @@
     width: 100%;
     margin-bottom: 16px;
   }
-  .SecondBox {
+  .Seconddiv {
     width: 100%;
   }
   .bottomBox {
