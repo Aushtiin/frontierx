@@ -68,13 +68,15 @@
 
 .SecondBox {
   background: rgba(13, 13, 13, 0.5);
-  width: 600px;
+  max-width: 600px;
+  min-width: auto;
   border-radius: 4px;
 }
 
 .bottomBox {
   background: rgba(13, 13, 13, 0.5);
-  width: 600px;
+  max-width: 600px;
+  min-width: auto;
   border-radius: 4px;
 }
 
@@ -92,10 +94,11 @@
 
 .midBox {
   height: 350px;
-  overflow: scroll;
+  overflow-y: auto;
+  overflow-x: hidden;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 765px) {
   .avatar {
     width: 80px;
   }
@@ -127,5 +130,7 @@
   }
   .midBox {
     grid-template-columns: auto;
+    overflow-x: auto;
   }
 }
+

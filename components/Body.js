@@ -114,53 +114,53 @@ const Body = () => {
             <div
               className={`${styles.midBox} grid grid-cols-3 gap-3 grid-rows-layout`}
             >
-              <div className="flex flex-col justify-center items-center bg-bg100 text-white p-3 rounded">
+              <div className="flex flex-col text-center  justify-center items-center bg-bg100 text-white p-3 rounded">
                 <span className="text-xs mb-1 text-[#8E8B8F]">
                   Accessories & Ears
                 </span>
                 <span className="font-bold mb-1">Lorem ipsum</span>
                 <span className="text-xs text-[#8E8B8F]">9%</span>
               </div>
-              <div className="flex flex-col justify-center items-center bg-bg100 text-white p-3 rounded">
+              <div className="flex flex-col text-center  justify-center items-center bg-bg100 text-white p-3 rounded">
                 <span className="text-xs mb-1 text-[#8E8B8F]">Arms</span>
                 <span className="font-bold mb-1">Lorem ipsum</span>
                 <span className="text-xs text-[#8E8B8F]">15%</span>
               </div>
-              <div className="flex flex-col justify-center items-center bg-bg100 text-white p-3 rounded">
+              <div className="flex flex-col text-center  justify-center items-center bg-bg100 text-white p-3 rounded">
                 <span className="text-xs mb-1 text-[#8E8B8F]">Background</span>
                 <span className="font-bold mb-1">Lorem ipsum</span>
                 <span className="text-xs text-[#8E8B8F]">2%</span>
               </div>
-              <div className="flex flex-col justify-center items-center bg-bg100 text-white p-3 rounded">
+              <div className="flex flex-col text-center  justify-center items-center bg-bg100 text-white p-3 rounded">
                 <span className="text-xs mb-1 text-[#8E8B8F]">Eye</span>
                 <span className="font-bold mb-1">Lorem ipsum</span>
                 <span className="text-xs text-[#8E8B8F]">32%</span>
               </div>
-              <div className="flex flex-col justify-center items-center bg-bg100 text-white p-3 rounded">
+              <div className="flex flex-col text-center  justify-center items-center bg-bg100 text-white p-3 rounded">
                 <span className="text-xs mb-1 text-[#8E8B8F]">Glasses</span>
                 <span className="font-bold mb-1">Lorem ipsum</span>
                 <span className="text-xs text-[#8E8B8F]">3%</span>
               </div>
-              <div className="flex flex-col justify-center items-center bg-bg100 text-white p-3 rounded">
+              <div className="flex flex-col text-center  justify-center items-center bg-bg100 text-white p-3 rounded">
                 <span className="text-xs mb-1 text-[#8E8B8F]">
                   Heair & Hats
                 </span>
                 <span className="font-bold mb-1">Lorem ipsum</span>
                 <span className="text-xs text-[#8E8B8F]">2%</span>
               </div>
-              <div className="flex flex-col justify-center items-center bg-bg100 text-white p-3 rounded">
+              <div className="flex flex-col text-center justify-center items-center bg-bg100 text-white p-3 rounded">
                 <span className="text-xs mb-1 text-[#8E8B8F]">Head</span>
                 <span className="font-bold mb-1">Lorem ipsum</span>
                 <span className="text-xs text-[#8E8B8F]">92%</span>
               </div>
-              <div className="flex flex-col justify-center items-center bg-bg100 text-white p-3 rounded">
+              <div className="flex flex-col text-center   justify-center items-center bg-bg100 text-white p-3 rounded">
                 <span className="text-xs mb-1 text-[#8E8B8F]">
                   Legs & Clothes
                 </span>
                 <span className="font-bold mb-1">Lorem ipsum</span>
                 <span className="text-xs text-[#8E8B8F]">9%</span>
               </div>
-              <div className="flex flex-col justify-center items-center bg-bg100 text-white p-3 rounded">
+              <div className="flex flex-col text-center  justify-center items-center bg-bg100 text-white p-3 rounded">
                 <span className="text-xs mb-1 text-[#8E8B8F]">Mouth</span>
                 <span className="font-bold mb-1">Lorem ipsum</span>
                 <span className="text-xs text-[#8E8B8F]">46%</span>
