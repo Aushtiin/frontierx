@@ -102,6 +102,12 @@
   height: 350px;
   overflow-y: auto;
   overflow-x: hidden;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.midBox::-webkit-scrollbar {
+  display: none;
 }
 
 @media screen and (max-width: 765px) {
