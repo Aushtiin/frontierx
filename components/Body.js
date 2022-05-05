@@ -100,7 +100,7 @@ const Body = () => {
           </div>
         </div>
         <div className={`${styles.sectioncontainer} w-[600px] flex flex-col`}>
-          <div className={`${styles.SecondBox} bg-boxBg rounded bg-bg100 p-8 mb-8`}>
+          <div className={`${styles.SecondBox} bg-boxBg rounded p-8 mb-8`}>
             <div className="flex justify-between mb-5">
               <div className="flex">
                 <Image src={vector2} alt="vector" />
